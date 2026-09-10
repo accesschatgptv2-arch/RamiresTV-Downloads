@@ -7,6 +7,7 @@
   "tag": "v2.2.0",
   "apkFile": "RamiresTV-2.2-release.apk",
   "apkUrl": "https://github.com/accesschatgptv2-arch/RamiresTV-Downloads/releases/download/v2.2.0/RamiresTV-2.2-release.apk",
-  "sha256": "f2f5f920eab19df28c3e6a652b0d68ee196202b6b89c2b1ebcfe4ff43bdda305",
+  "permanentApkUrl": "https://github.com/accesschatgptv2-arch/RamiresTV-Downloads/releases/latest/download/RamiresTV-latest.apk",
+  "sha256": "48279721cbe8034815cf10778121d287e3e94af6d8d03c258d34c8a83a5d9cd3",
   "catalogUrl": "https://raw.githubusercontent.com/accesschatgptv2-arch/RamiresTV-Downloads/main/catalog/catalog-v2.json"
 }
