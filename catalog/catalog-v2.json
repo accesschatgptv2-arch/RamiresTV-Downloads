@@ -1,9 +1,19 @@
 {
   "schemaVersion": 2,
-  "revision": 21,
-  "heroTitle": "Ramires TV",
-  "heroSubtitle": "Tudo em um só lugar: streaming grátis, assinaturas e TV ao vivo em uma central feita para Google TV.",
+  "revision": 22,
+  "heroTitle": "Ramires TV 2.2",
+  "heroSubtitle": "Tudo em um só lugar: streaming grátis, assinaturas, TV ao vivo e acesso rápido à Play Store.",
   "items": [
+    {
+      "id": "play-store",
+      "title": "Google Play Store",
+      "subtitle": "Abra a loja oficial para entrar com sua conta e instalar apps",
+      "badge": "OFICIAL",
+      "section": "Apps e serviços",
+      "kind": "app",
+      "packageName": "com.android.vending",
+      "tags": ["store", "featured"]
+    },
     {
       "id": "pluto-tv",
       "title": "Pluto TV",
