@@ -8,5 +8,7 @@
   "apkFile": "RamiresTV-2.1-release.apk",
   "apkUrl": "https://github.com/accesschatgptv2-arch/RamiresTV-Downloads/releases/download/v2.1.0/RamiresTV-2.1-release.apk",
   "sha256": "2fb5cfedd053feec55d3461ffa14c51d3a745aee09fb1a36f0f1f3ae6c88bbd5",
-  "catalogUrl": "https://raw.githubusercontent.com/accesschatgptv2-arch/RamiresTV-Downloads/main/catalog/catalog-v2.json"
+  "catalogUrl": "https://raw.githubusercontent.com/accesschatgptv2-arch/RamiresTV-Downloads/main/catalog/catalog-v2.json",
+  "downloaderCode": "5809751",
+  "downloaderUrl": "http://aftv.news/5809751"
 }
