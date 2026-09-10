@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "revision": 21,
+  "heroTitle": "Ramires TV",
+  "heroSubtitle": "Tudo em um só lugar: streaming grátis, assinaturas e TV ao vivo em uma central feita para Google TV.",
+  "items": [
+    {
+      "id": "pluto-tv",
+      "title": "Pluto TV",
+      "subtitle": "TV ao vivo e conteúdo sob demanda",
+      "badge": "GRÁTIS",
+      "section": "Grátis para assistir",
+      "kind": "app",
+      "packageName": "tv.pluto.android",
+      "tags": ["free", "live", "movies", "series", "featured"]
+    },
+    {
+      "id": "mercado-play",
+      "title": "Mercado Play",
+      "subtitle": "Filmes e séries grátis com anúncios",
+      "badge": "GRÁTIS",
+      "section": "Grátis para assistir",
+      "kind": "app",
+      "packageName": "com.mercadolibre.android.mplay_tv",
+      "tags": ["free", "movies", "series", "featured"]
+    },
+    {
+      "id": "plex",
+      "title": "Plex",
+      "subtitle": "Filmes, séries e canais gratuitos",
+      "badge": "GRÁTIS",
+      "section": "Grátis para assistir",
+      "kind": "app",
+      "packageName": "com.plexapp.android",
+      "tags": ["free", "live", "movies", "series"]
+    },
+    {
+      "id": "runtime",
+      "title": "Runtime",
+      "subtitle": "Filmes e TV ao vivo",
+      "badge": "GRÁTIS",
+      "section": "Grátis para assistir",
+      "kind": "app",
+      "packageName": "com.ammo.runtime.tv",
+      "tags": ["free", "live", "movies", "series"]
+    },
+    {
+      "id": "netflix",
+      "title": "Netflix",
+      "subtitle": "Abra o aplicativo oficial",
+      "badge": "ASSINATURA",
+      "section": "Suas assinaturas",
+      "kind": "app",
+      "packageName": "com.netflix.ninja",
+      "tags": ["subscription", "movies", "series", "kids", "featured"]
+    },
+    {
+      "id": "prime-video",
+      "title": "Prime Video",
+      "subtitle": "Abra o aplicativo oficial",
+      "badge": "ASSINATURA",
+      "section": "Suas assinaturas",
+      "kind": "app",
+      "packageName": "com.amazon.avod.thirdpartyclient",
+      "tags": ["subscription", "movies", "series", "kids", "featured"]
+    },
+    {
+      "id": "hbo-max",
+      "title": "HBO Max",
+      "subtitle": "Abra o aplicativo oficial",
+      "badge": "ASSINATURA",
+      "section": "Suas assinaturas",
+      "kind": "app",
+      "packageName": "com.wbd.stream",
+      "tags": ["subscription", "movies", "series", "featured"]
+    },
+    {
+      "id": "disney-plus",
+      "title": "Disney+",
+      "subtitle": "Disney, Pixar, Marvel, Star Wars e mais",
+      "badge": "ASSINATURA",
+      "section": "Suas assinaturas",
+      "kind": "app",
+      "packageName": "com.disney.disneyplus",
+      "tags": ["subscription", "movies", "series", "kids", "featured"]
+    },
+    {
+      "id": "player-demo",
+      "title": "Teste do Player",
+      "subtitle": "Stream HLS público de demonstração",
+      "badge": "PLAYER",
+      "section": "Player Integrado",
+      "kind": "stream",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8",
+      "tags": ["player"]
+    }
+  ]
+}
