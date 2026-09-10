@@ -1,0 +1,10 @@
+{
+  "app": "Ramires TV",
+  "channel": "stable",
+  "versionName": "2.1.0",
+  "versionCode": 21,
+  "releaseStatus": "pending-signature",
+  "apkFile": null,
+  "sha256": null,
+  "catalogUrl": "https://raw.githubusercontent.com/accesschatgptv2-arch/RamiresTV-Downloads/main/catalog/catalog-v2.json"
+}
